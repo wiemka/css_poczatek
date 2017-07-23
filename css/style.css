@@ -34,3 +34,9 @@ li>a {
     color: aqua;
 }
 
+
+/*selektor elementów potomnych*/
+
+div a {
+    color: yellow;
+}
