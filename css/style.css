@@ -62,3 +62,16 @@ h4~p {
 #lista_agnieszki>li:not(.ostatni) {
     color: deeppink;
 }
+
+
+/*Selektor kolejnego elemetu potomnego*/
+
+ul#lista_karoliny>ol {
+    background-color: aquamarine;
+    color: darkblue;
+    border-bottom: 1px solid black
+}
+
+ul#lista_karoliny>ol:nth-child(3) {
+    color: red;
+}
