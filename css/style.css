@@ -26,3 +26,11 @@ span,
 div {
     color: blue
 }
+
+
+/*selektor bezpośredni do elementu potomnego*/
+
+li>a {
+    color: aqua;
+}
+
