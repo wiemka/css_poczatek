@@ -3,3 +3,26 @@
 p {
     color: orange;
 }
+
+
+/*sektor id*/
+
+#paragraf {
+    color: violet;
+}
+
+
+/*selektor klasy*/
+
+.klasa_paragrafu {
+    color: green;
+}
+
+
+/*łączenie selektorów*/
+
+a,
+span,
+div {
+    color: blue
+}
