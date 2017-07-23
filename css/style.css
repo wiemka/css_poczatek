@@ -1,5 +1,4 @@
 /*selektor znacznika*/
-
 p {
     color: orange;
 }
@@ -40,3 +39,12 @@ li>a {
 div a {
     color: yellow;
 }
+
+
+/*selektor bliskiego rodzeństwa*/
+
+h2+h3 {
+    color: brown;
+}
+
+
